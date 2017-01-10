@@ -5,6 +5,8 @@ title: Stenugssunds Frisbeeclub
 
 # En rubrik
 
+* [Kalender](./kalender.md)
+
 **Denna sida är under uppbyggnad**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis turpis sed quam hendrerit hendrerit. Cras a nunc vel lectus gravida tempor. Morbi a est mi. Donec at finibus leo. Nam arcu odio, lobortis id sem vitae, tincidunt congue est. Aliquam et laoreet velit. Morbi consectetur felis sit amet odio mattis, ac cursus orci ultrices. Pellentesque id quam fermentum, ultrices mi at, posuere risus.
